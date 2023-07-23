@@ -1,0 +1,7 @@
+
+Customer ID: 123
+Name: Abhishek
+Age: 21
+Mobile Number: 9636550375
+Address: NIT Rourkela
+Gender: male
